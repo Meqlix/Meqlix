@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 About Me
-🚀 Currently a **15-year-old high school freshman in Japan**<br>
+🏫 I am a **15-year-old high school freshman in Japan**<br>
 🇯🇵 I have the heart of a **samurai**. I mean **kind and noble**, LOL.<br>
 💡 Interested in **software development, open-source, and AI**<br>
 📖 Always eager to **learn new programming languages and frameworks**
