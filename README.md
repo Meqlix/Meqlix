@@ -15,10 +15,10 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently a **15-year-old high school freshman in Japan**
-- 🇯🇵 I have the heart of a **samurai**. I mean **kind and noble**. LOL.
-- 💡 Interested in **software development, open-source, and AI**
-- 📖 Always eager to **learn new programming languages and frameworks**
+🚀 Currently a **15-year-old high school freshman in Japan**<br>
+🇯🇵 I have the heart of a **samurai**. I mean **kind and noble**. LOL.<br>
+💡 Interested in **software development, open-source, and AI**<br>
+📖 Always eager to **learn new programming languages and frameworks**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00C3FF&center=true&width=435&lines=Full-Stack+Developer+%F0%9F%9A%80;Loves+Coding+and+Creativity+%F0%9F%92%A1;Exploring+New+Technologies+%F0%9F%8C%8D" alt="Typing Animation 2">
@@ -33,10 +33,11 @@
   <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00C3FF&center=true&width=435&lines=HTML+%7C+CSS+%7C+Java+%7C+C%2B%2B+%7C+Python" alt="Tech Stack Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00C3FF&center=true&width=600&lines=HTML+%7C+CSS+%7C+Java+%7C+C%2B%2B+%7C+Python+%7C+TypeScript" alt="Tech Stack Animation">
 </p>
 
 ---
