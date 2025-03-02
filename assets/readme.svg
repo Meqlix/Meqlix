@@ -6,7 +6,7 @@
   <image x="300" y="100" width="200" href="https://img.shields.io/badge/Meqlix-00C3FF?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 
   <!-- Typing SVG -->
-  <image x="180" y="150" width="440" href="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;pause=1000&amp;color=00C3FF&amp;center=true&width=435&amp;lines=Welcome+to+my+GitHub!+%F0%9F%9A%80;Passionate+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A" />
+  <image x="180" y="150" width="440" href="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;pause=1000&amp;color=00C3FF&amp;center=true&amp;width=435&amp;lines=Welcome+to+my+GitHub!+%F0%9F%9A%80;Passionate+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A" />
 
   <!-- About Me -->
   <text x="50" y="230" fill="white" font-size="20" font-family="Arial">🚀 About Me</text>
