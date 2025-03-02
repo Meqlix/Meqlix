@@ -12,17 +12,10 @@
 
 ---
 
-## 🌌 Animated Background
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Animated Coding GIF" width="100%">
-</p>
-
----
-
 ## 🚀 About Me
 - 🔭 Currently a **15-year-old high school freshman in Japan**
+- 🇯🇵 I have the heart of a **samurai**. I mean **kind and noble**. LOL.
 - 💡 Interested in **software development, open-source, and AI**
-- 🌍 Enthusiastic about **traveling and exploring different cultures**
 - 📖 Always eager to **learn new programming languages and frameworks**
 
 <p align="center">
@@ -33,18 +26,15 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
 
----
-
-## 🌱 GitHub Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meqlix&theme=react-dark" alt="GitHub Activity Graph">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C3FF&center=true&width=435&lines=HTML+%7C+CSS+%7C+Java+%7C+C%2B%2B+%7C+Python" alt="Tech Stack Animation">
 </p>
 
 ---
