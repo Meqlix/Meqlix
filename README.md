@@ -42,7 +42,7 @@
 
   ## 📫 Get in Touch
   <p>
-    <a href="https://x.com/Meqlix"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+    <a href="https://x.com"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
     <a href="https://discord.gg/UE43A5f4"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   </p>
 
